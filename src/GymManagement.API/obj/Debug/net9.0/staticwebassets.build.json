@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KaySVGQCzsLkzasDHUD5a8cFCVT12WUjbZTu0pOBufI=",
+  "Source": "GymManagement.API",
+  "BasePath": "_content/GymManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

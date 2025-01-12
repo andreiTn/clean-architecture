@@ -1,0 +1,11 @@
+D:\learn-net\gym\src\GymManagement.Application\bin\Debug\net9.0\GymManagement.Application.deps.json
+D:\learn-net\gym\src\GymManagement.Application\bin\Debug\net9.0\GymManagement.Application.dll
+D:\learn-net\gym\src\GymManagement.Application\bin\Debug\net9.0\GymManagement.Application.pdb
+D:\learn-net\gym\src\GymManagement.Application\obj\Debug\net9.0\GymManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn-net\gym\src\GymManagement.Application\obj\Debug\net9.0\GymManagement.Application.AssemblyInfoInputs.cache
+D:\learn-net\gym\src\GymManagement.Application\obj\Debug\net9.0\GymManagement.Application.AssemblyInfo.cs
+D:\learn-net\gym\src\GymManagement.Application\obj\Debug\net9.0\GymManagement.Application.csproj.CoreCompileInputs.cache
+D:\learn-net\gym\src\GymManagement.Application\obj\Debug\net9.0\GymManagement.Application.dll
+D:\learn-net\gym\src\GymManagement.Application\obj\Debug\net9.0\refint\GymManagement.Application.dll
+D:\learn-net\gym\src\GymManagement.Application\obj\Debug\net9.0\GymManagement.Application.pdb
+D:\learn-net\gym\src\GymManagement.Application\obj\Debug\net9.0\ref\GymManagement.Application.dll
