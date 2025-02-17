@@ -9,3 +9,7 @@ D:\learn-net\gym\src\GymManagement.Application\obj\Debug\net9.0\GymManagement.Ap
 D:\learn-net\gym\src\GymManagement.Application\obj\Debug\net9.0\refint\GymManagement.Application.dll
 D:\learn-net\gym\src\GymManagement.Application\obj\Debug\net9.0\GymManagement.Application.pdb
 D:\learn-net\gym\src\GymManagement.Application\obj\Debug\net9.0\ref\GymManagement.Application.dll
+D:\learn-net\gym\src\GymManagement.Application\obj\Debug\net9.0\GymManagement.Application.csproj.AssemblyReference.cache
+D:\learn-net\gym\src\GymManagement.Application\bin\Debug\net9.0\GymManagement.Domain.dll
+D:\learn-net\gym\src\GymManagement.Application\bin\Debug\net9.0\GymManagement.Domain.pdb
+D:\learn-net\gym\src\GymManagement.Application\obj\Debug\net9.0\GymManag.E831DFE7.Up2Date

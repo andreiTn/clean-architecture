@@ -9,3 +9,4 @@ D:\learn-net\gym\src\GymManagement.Domain\obj\Debug\net9.0\GymManagement.Domain.
 D:\learn-net\gym\src\GymManagement.Domain\obj\Debug\net9.0\refint\GymManagement.Domain.dll
 D:\learn-net\gym\src\GymManagement.Domain\obj\Debug\net9.0\GymManagement.Domain.pdb
 D:\learn-net\gym\src\GymManagement.Domain\obj\Debug\net9.0\ref\GymManagement.Domain.dll
+D:\learn-net\gym\src\GymManagement.Domain\obj\Debug\net9.0\GymManagement.Domain.csproj.AssemblyReference.cache
