@@ -1,0 +1,6 @@
+@HostAddress = http://localhost:5145
+
+# Copy the SubscriptionId from the Create Subscription response
+# and replace the {{SubscriptionId}} placeholder with it
+GET {{HostAddress}}/Subscriptions/<SubscriptionId>
+Accept: application/json

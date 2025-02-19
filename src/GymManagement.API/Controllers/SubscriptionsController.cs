@@ -34,16 +34,15 @@ public class SubscriptionsController(IMediator mediator) : ControllerBase
     );
   }
 
-  [HttpGet]
+  [HttpGet("{subscriptionId}")]
   public async Task<IActionResult> GetSubscription(Guid subscriptionId)
   {
-    
     var command = new GetSubscriptionCommand(subscriptionId);
     var createSubscriptionResult = await _mediator.Send(command);
 
     return createSubscriptionResult.MatchFirst(
       subscription => Ok(new SubscriptionResponse(subscriptionId, SubscriptionType.Free.ToString())),
-      error => Problem()
+      error => Problem(error.Description)
     );
   }
 }
